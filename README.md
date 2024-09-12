@@ -1,5 +1,5 @@
 # SIGMAP
-![alt text](https://github.com/alberdom88/SIGMAP/blob/main/logo/logo_withmol.jpeg?raw=true)
+![alt text](https://github.com/alberdom88/SIGMAP/blob/main/logo/logo_withmol.jpg?raw=true) \
 This repository contains the code of the method described in "SIGMAP: an explainable artificial intelligence tool for SIGMA-1 receptor affinity Prediction" (add ref).
 
 ## Requisites
