@@ -19,7 +19,7 @@ where <input_file>.csv contains the input SMILES formatted like the pb28.csv fil
 
 The code will outputs the following files:
 
-`<input_file>.csv_out`: contains the output of the prediction
-`<input_file>.png`: is the SHAP analysis of the prediction
-`<input_file>.csv_counter_out.csv`: contains the predition of the analogues molecules generated via DelaDrugSelf
+`<input_file>.csv_out`: contains the output of the prediction  \
+`<input_file>.png`: is the SHAP analysis of the prediction     \
+`<input_file>.csv_counter_out.csv`: contains the predition of the analogues molecules generated via DelaDrugSelf \
 
